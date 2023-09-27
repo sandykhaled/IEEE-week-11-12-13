@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#btn1{
+    border-radius: 40px;
+margin: 200px;
+background-color: gray;
+border: none;
+}
+h1{
+    color:rgb(23, 23, 70);
+}
+p{
+    color:rgb(85, 81, 81);
+    font-size:25px ;
+}
